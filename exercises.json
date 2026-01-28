@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ex_001",
+    "name": "Push-ups",
+    "type": "strength",
+    "muscle_group": "chest",
+    "difficulty": "beginner",
+    "equipment": "bodyweight"
+  },
+  {
+    "id": "ex_002",
+    "name": "Bodyweight Squats",
+    "type": "strength",
+    "muscle_group": "legs",
+    "difficulty": "beginner",
+    "equipment": "bodyweight"
+  },
+  {
+    "id": "ex_003",
+    "name": "Lunges",
+    "type": "strength",
+    "muscle_group": "legs",
+    "difficulty": "beginner",
+    "equipment": "bodyweight"
+  },
+  {
+    "id": "ex_004",
+    "name": "Plank",
+    "type": "core",
+    "muscle_group": "abs",
+    "difficulty": "beginner",
+    "equipment": "bodyweight"
+  },
+  {
+    "id": "ex_005",
+    "name": "Dumbbell Bench Press",
+    "type": "strength",
+    "muscle_group": "chest",
+    "difficulty": "intermediate",
+    "equipment": "dumbbell"
+  },
+  {
+    "id": "ex_006",
+    "name": "Dumbbell Rows",
+    "type": "strength",
+    "muscle_group": "back",
+    "difficulty": "intermediate",
+    "equipment": "dumbbell"
+  },
+  {
+    "id": "ex_007",
+    "name": "Deadlift",
+    "type": "strength",
+    "muscle_group": "legs/back",
+    "difficulty": "advanced",
+    "equipment": "barbell"
+  },
+  {
+    "id": "ex_008",
+    "name": "Overhead Press",
+    "type": "strength",
+    "muscle_group": "shoulders",
+    "difficulty": "intermediate",
+    "equipment": "barbell"
+  },
+  {
+    "id": "ex_009",
+    "name": "Running / Jogging",
+    "type": "cardio",
+    "muscle_group": "full_body",
+    "difficulty": "all",
+    "equipment": "none"
+  },
+  {
+    "id": "ex_010",
+    "name": "Jump Rope",
+    "type": "cardio",
+    "muscle_group": "full_body",
+    "difficulty": "intermediate",
+    "equipment": "rope"
+  }
+]

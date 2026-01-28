@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bf_001",
+    "name": "Oatmeal with Berries & Protein Powder",
+    "type": "breakfast",
+    "calories": 450,
+    "protein": 30,
+    "carbs": 55,
+    "fats": 10,
+    "tags": ["healthy", "vegetarian", "quick"]
+  },
+  {
+    "id": "bf_002",
+    "name": "Scrambled Eggs (3) with Toast & Avocado",
+    "type": "breakfast",
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fats": 25,
+    "tags": ["high-protein", "vegetarian"]
+  },
+  {
+    "id": "bf_003",
+    "name": "Greek Yogurt Parfait (Granola + Honey)",
+    "type": "breakfast",
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fats": 8,
+    "tags": ["light", "vegetarian"]
+  },
+  {
+    "id": "ln_001",
+    "name": "Grilled Chicken Breast with Quinoa & Broccoli",
+    "type": "lunch",
+    "calories": 600,
+    "protein": 50,
+    "carbs": 60,
+    "fats": 15,
+    "tags": ["clean-eating", "high-protein"]
+  },
+  {
+    "id": "ln_002",
+    "name": "Tuna Salad Sandwich (Whole Wheat)",
+    "type": "lunch",
+    "calories": 500,
+    "protein": 35,
+    "carbs": 45,
+    "fats": 18,
+    "tags": ["quick", "pescatarian"]
+  },
+  {
+    "id": "ln_003",
+    "name": "Lentil Soup with Brown Rice",
+    "type": "lunch",
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fats": 10,
+    "tags": ["vegan", "high-fiber"]
+  },
+  {
+    "id": "dn_001",
+    "name": "Baked Salmon with Asparagus & Sweet Potato",
+    "type": "dinner",
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fats": 22,
+    "tags": ["healthy-fats", "pescatarian"]
+  },
+  {
+    "id": "dn_002",
+    "name": "Turkey Stir-Fry with Mixed Veggies",
+    "type": "dinner",
+    "calories": 480,
+    "protein": 45,
+    "carbs": 35,
+    "fats": 12,
+    "tags": ["low-carb", "high-protein"]
+  },
+  {
+    "id": "dn_003",
+    "name": "Tofu & Vegetable Curry with Rice",
+    "type": "dinner",
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fats": 18,
+    "tags": ["vegan", "spicy"]
+  },
+  {
+    "id": "sn_001",
+    "name": "Protein Shake (Whey/Plant)",
+    "type": "snack",
+    "calories": 150,
+    "protein": 25,
+    "carbs": 5,
+    "fats": 2,
+    "tags": ["supplement", "quick"]
+  },
+  {
+    "id": "sn_002",
+    "name": "Apple with Peanut Butter",
+    "type": "snack",
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fats": 14,
+    "tags": ["vegetarian", "natural"]
+  },
+  {
+    "id": "sn_003",
+    "name": "Almonds (Handful)",
+    "type": "snack",
+    "calories": 160,
+    "protein": 6,
+    "carbs": 6,
+    "fats": 14,
+    "tags": ["vegetarian", "keto-friendly"]
+  }
+]
